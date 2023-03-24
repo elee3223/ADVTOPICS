@@ -1,0 +1,29 @@
+Assignment 1:
+  Q1:
+    Write three methods main(), primeSum(), and bePrime().
+    The main function should do following.
+      Input: Read an integer from the user console with proper prompt
+      Processing: Call primeSum() with an assignment statement and save the result in a variable.
+      Output: Print result with proper prompt.
+
+  Q2: 
+    Create a Panda class and test it with a TestPanda class. 
+    
+Assignment 2:
+  Q1: Fix out-of-bound exception
+    - Ask the user to enter a length n for an integer array
+      n must be larger than 0. Use a do while loop to keep asking the user 
+      enter an positive integer until a positive integer is entered
+      
+    - Generate random integers in the range of [1,n] to fill the array
+    
+    - In a do while loop, ask the user to enter an index of the array,
+        If the specified index is out of bounds, i.e. index<0 or index>=n 
+        display the message "Out of Bounds", then quit
+        otherwise, display the corresponding element value and ask the user 
+        to enter a next index
+        
+  Q2: Custom Exception class for triangle sides
+    For a triangle with three sides of length a,b,c to be valid,
+      the length of each side must be greater than 0, and
+      the sum of any two sides must be greater than the third side by length
