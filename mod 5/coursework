@@ -1,0 +1,15 @@
+Assignment 4:
+  Rewrite the rising flag animation below using a thread to MANUALLY animate the flag being raised.
+
+  You can NOT use any animation classes such as PathTransition, FadeTransition, Timeline, etc.
+  Manual animation is changing the visual effect of nodes manually and gradually
+  Raising a flag
+    decreasing the y coordinate of the imageView of a flag
+  Lowering a flag
+    increasing the y coordinate of the imageView of a flag
+
+  Using Thread.sleep to adjust the animation speed
+
+Lab 3:
+  multithreading/parallel programming - concurrent output
+  rewrite a given code to sychronize threads to protect each thread when updating a text area
