@@ -1,0 +1,11 @@
+Lab 1:
+  Q1: Write a complete java program that calculates the local annual 
+  tax for residents in where they live.
+
+  Q2:
+    prompts the user to enter three integers a, b, and c,
+      determines
+        whether a is divisible by b and c,
+        whether a is divisible by b or c,
+        and whether a is divisible by b or c, but not both. 
+        Hint: using xor, i.e. (a%b==0) ^ (a%c==0)
