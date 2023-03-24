@@ -1,0 +1,17 @@
+Assignment 3:
+  Q1: move the ball
+    Write a program that moves the ball in a pane. You should define a pane class for 
+    displaying the ball and provide the methods for moving the ball left, right, up, and 
+    down, as shown here.
+    
+  Q2: Investment Calculator
+    Write a program that calculates the future value of an investment at a given interest
+    rate for a specified number of years.
+    EXTRA CREDIT: make it flashy
+ 
+Lab 2:
+  Q1: Three cards
+    Write a program that displays three cards randomly selected from a deck of 52
+    
+  Q2: Words in a Circle
+    Write a program that displays a string “Welcome to Java” around a circle
