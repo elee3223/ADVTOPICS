@@ -1,0 +1,6 @@
+#MODULE 6
+#NETWORK PROGRAMMING
+#Assignment 5:
+#Write a server computing BMI with the given client (must be able t o handle multiple at the same time)
+
+#extra credit - write your own bmiclient
