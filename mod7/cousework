@@ -1,0 +1,12 @@
+Lab 4:
+  BASIC DATABASE PROGRAMMING
+  Write a program that views, inserts, and updates staff information stored in a database
+  A label on the top of the scene is used to show the status of the program. Each of the following operation has two results: success or fail.
+    connect to the database
+    view a record with the specified ID
+    insert a new record
+    update the record for the specified ID
+    The label text must be updated accordingly
+    
+Lab 5:
+  ADVANCED DATABASE PROGRAMMING
